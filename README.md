@@ -5,7 +5,7 @@
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.13.0-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-**Демо:** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ваш-логин/ваш-репозиторий)
+**Демо:** https://online-couples.streamlit.app/
 
 Веб-приложение для прогнозирования курса **рубля к доллару США (RUB/USD)** с использованием глубокого обучения (LSTM, LSTM+Attention, Transformer).  
 Данные загружаются в реальном времени с сайта Центрального банка России, и вы можете дополнительно использовать **ключевую ставку ЦБ РФ** из локального файла `keyrate.txt`.  
